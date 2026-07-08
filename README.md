@@ -1,7 +1,10 @@
 # New_Project
 Project for DataWarehouse
-
+My name is Phichcyathida Kattiya
+My nickname is Kingpai
+Im come from Udonthani
 ----
+
 ## Basic git command
 Command
 - `git clone`	Get the course repo
